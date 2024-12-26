@@ -1,0 +1,10 @@
+.wg-header {
+    & {
+        background: lightblue;
+    }
+
+    .description {
+        border: 1px solid;
+        background: orange;
+    }
+}
